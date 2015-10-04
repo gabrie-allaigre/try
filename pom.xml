@@ -146,6 +146,14 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-
-
+    <distributionManagement>
+        <repository>
+            <id>synaptix-releases-repository</id>
+            <url>http://nexus.synaptix-labs.com/content/repositories/releases/</url>
+        </repository>
+        <snapshotRepository>
+            <id>synaptix-snapshots-repository</id>
+            <url>http://nexus.synaptix-labs.com/content/repositories/snapshots/</url>
+        </snapshotRepository>
+    </distributionManagement>
 </project>
