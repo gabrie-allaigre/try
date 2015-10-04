@@ -1,5 +1,7 @@
 # try
 
+[![Build Status](https://jenkins.synaptix-labs.com/buildStatus/icon?job=gabriel.allaigre/try)](https://jenkins.synaptix-labs.com/job/gabriel.allaigre/job/try/)
+
 Comment gérer la propagationn des exceptions avec Java 8 et les lambdas.
 
 Le code provient de http://blog.zenika.com/index.php?post/2014/02/19/Repenser-la-propagation-des-exceptions-avec-Java-8
