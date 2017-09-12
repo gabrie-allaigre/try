@@ -1,6 +1,6 @@
 # try
 
-Comment gérer la propagationn des exceptions avec Java 8 et les lambdas.
+Comment gérer la propagation des exceptions avec Java 8 et les lambdas.
 
 Le code provient de http://blog.zenika.com/2014/02/19/repenser-la-propagation-des-exceptions-avec-java-8/
 
